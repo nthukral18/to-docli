@@ -1,0 +1,16 @@
+[
+    {
+        "username": "nav",
+        "email": "nav@gmail.com",
+        "password": "$2b$12$D/CFkJTIrlAqDnUVMLxEgOc/RHZv7C3aP/CIHkA4j9mOvGvxTQVNu",
+        "phone": "2505529691",
+        "address": "toronto",
+        "todo": [
+            {
+                "toDoName": "do that",
+                "isCompleted": true,
+                "todo_id": "5bBALw731Y60"
+            }
+        ]
+    }
+]
